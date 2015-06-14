@@ -1,3 +1,5 @@
+//Arduino sketch for DHT11 w/ Ethernet Shield uploading to Xively
+
 #include <SPI.h>
 #include <Ethernet.h>
 #include <HttpClient.h>
